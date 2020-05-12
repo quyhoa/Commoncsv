@@ -9,5 +9,10 @@
     "require": {},
     "autoload": {
         "psr-4": { "Hoalqq\\Commoncsv\\" : "src/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }

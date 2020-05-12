@@ -19,11 +19,11 @@ $test = new TestPackage($filename,$header,$data);
 $test->setShowHeader(false); // true is show header, false is not show, default is true
 $test->downloadFile();// call function make output file
 ```
-===
 edit composer
 ```php
 "require-dev": {
-        "fuel/docs": "1.8.*",
-        "hoalqq/commoncsv": "dev-master"
-    },
+    "hoalqq/commoncsv": "dev-master"
+}
 ```
+===
+run: composer update
