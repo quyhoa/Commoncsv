@@ -1,5 +1,5 @@
 ```bash
-$ composer require hoalqq/commoncsv
+$ composer require --dev hoalqq/commoncsv:dev-master
 ```
 ```php
 <?php
@@ -25,5 +25,4 @@ edit composer
     "hoalqq/commoncsv": "dev-master"
 }
 ```
-===
 run: composer update
