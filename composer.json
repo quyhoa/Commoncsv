@@ -1,11 +1,6 @@
 {
     "name": "hoalqq/commoncsv",
-    "authors": [
-        {
-            "name": "Quy Hoa",
-            "email": "hoalqq@runsystem.net"
-        }
-    ],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": { "Hoalqq\\Commoncsv\\" : "src/" }
@@ -15,5 +10,5 @@
             "dev-master": "1.0.x-dev"
         }
     },
-    "minimum-stability": "dev"
+    // "minimum-stability": "dev"
 }
