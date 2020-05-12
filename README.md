@@ -23,6 +23,7 @@ edit composer
 ```php
 "require-dev": {
     "hoalqq/commoncsv": "dev-master"
-}
+},
+"minimum-stability": "dev",
 ```
 run: composer update
