@@ -13,7 +13,7 @@ $data = [
     ['取引回','単価','金額'],
     ['取引回','単価','金額']
 ];
-$test = new TestPackage($filename,$header,$data);
+$test = new Commoncsv($filename,$header,$data);
 
 // add attribute to the object
 $test->setShowHeader(false); // true is show header, false is not show, default is true
