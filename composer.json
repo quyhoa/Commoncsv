@@ -1,6 +1,7 @@
 {
     "name": "hoalqq/commoncsv",
     "license": "MIT",
+    "description":"Handle csv with encoding shift-jis",
     "require": {},
     "autoload": {
         "psr-4": { "Hoalqq\\Commoncsv\\" : "src/" }
